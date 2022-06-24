@@ -1,0 +1,19 @@
+div{
+    color: red;
+}
+span{
+    color: green;
+}
+#username{
+    font-size: 30px;
+    color: brown    ;
+}
+.test123{
+    color:blue;
+}
+.Abc{
+
+    margin: 50px;
+    border: 2px solid;
+    padding-inline-start: 30px;
+}
